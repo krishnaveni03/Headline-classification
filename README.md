@@ -18,3 +18,7 @@ This project demonstrates a **Streamlit-based web application** that classifies 
 
 
 pip install transformers torch streamlit pandas matplotlib
+![image](https://github.com/user-attachments/assets/865ce131-2f1d-448f-88d4-b0b751e16485)
+![image](https://github.com/user-attachments/assets/a2b36d6d-f046-4ee9-b77a-d813bca8eefb)
+![image](https://github.com/user-attachments/assets/3ddec5f4-8ac8-4457-a0ef-f949fa2cc168)
+
